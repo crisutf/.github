@@ -9,7 +9,6 @@
 ---
 
 ![Crisu's github stats](https://github-readme-stats.vercel.app/api?username=Crisutf&theme=dark&hide_border=true&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Crisutf&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 ---
 
 ### 📫 Contacto
