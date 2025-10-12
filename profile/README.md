@@ -3,7 +3,8 @@
 ### 😴 Sobre mí
 >Tengo sueño
 - Soy el **creador de [Projectf](https://projectf.pages.dev/)**
-  ![Projectf Banner](https://projectf.pages.dev/media/logo/png/banner.png)
+
+![Projectf Banner](https://projectf.pages.dev/media/logo/png/banner.png)
 
 ---
 
