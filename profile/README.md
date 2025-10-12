@@ -23,4 +23,3 @@
 ---
 
 > _“No me gusta lo común. Prefiero lo funcional, limpio y lo que se sienta premium.”_  
-> — **Crisutf+**
