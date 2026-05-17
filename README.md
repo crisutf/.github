@@ -38,8 +38,6 @@ Actualmente estoy trabajando en **Crisutf Guard**, una solución de seguridad y 
 - 🚀 Filtrado de contenido y modo kiosko
 - 📱 Monitoreo en tiempo real
 
-> **Nota:** El repositorio es privado para evitar el pirateo. Si estás interesado en colaborar, ¡contáctame!
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas
