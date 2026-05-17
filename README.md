@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 ¡Hola! Soy <a href="https://github.com/crisutf">Crisutf</a></h1>
   
-  <p><strong>Desarrollador Full Stack | Diseñador de Experiencias Digitales</strong></p>
+  <p><strong>No se ni mierda :D</strong></p>
   
   <a href="https://discord.com/users/852601982472421476">
     <img src="https://lanyard.cnrad.dev/api/852601982472421476?bg=2b2d31&animated=true" alt="Discord Presence" />
@@ -22,32 +22,21 @@
 
 ## 🚀 Sobre Mí
 
-Soy un desarrollador apasionado por crear experiencias digitales fluidas y funcionales. Mi fuerte es el diseño y desarrollo web, siempre buscando la perfección en cada detalle.
+Me gusta la informatica, tambien tengo un gusto hacer que el estilo de alguna interfaz sea PERFECTO porque si no me da algo 
 
-> *"Me da tock si no me gusta el diseño que no se sienta ideal."*
+> *"Me da tock si no me gusta el diseño que no, no."*
 
 ---
 
 ## 🔒 Proyecto Actual: **Crisutf Guard**
 
-Actualmente estoy trabajando en **Crisutf Guard**, una solución de seguridad y gestión de dispositivos que incluye:
+Actualmente estoy trabajando en **Guard**, una solución de seguridad y gestión de dispositivos que incluye:
 
 - 🔐 Extensión de navegador para control de acceso web
 - 💻 Aplicación de escritorio (Windows/macOS/ChromeOS)
 - 📊 Panel de administración en la nube
 - 🚀 Filtrado de contenido y modo kiosko
 - 📱 Monitoreo en tiempo real
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-| Categoría | Tecnologías |
-|-----------|-------------|
-| **Frontend** | <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> |
-| **Backend** | <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
-| **Database** | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> |
-| **Tools & AI** | <img src="https://img.shields.io/badge/-Trae.ai-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> |
 
 ---
 
