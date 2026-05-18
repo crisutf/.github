@@ -6,7 +6,7 @@
 
 ---
 
-## 🛡️ Proyecto Actual: [Crisutf Guard](https://crisu.qzz.io)
+## 🛡️ Proyecto Actual: [Crisutf Guard](https://githuh.com/crisutf-guard)
 
 Solución de seguridad y gestión de dispositivos que incluye:
 * **Extensión de navegador** para control de acceso web.
