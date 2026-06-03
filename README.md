@@ -1,7 +1,7 @@
 ## Hola 👋
   
 <a href="https://discord.com/users/852601982472421476">
-  <img src="https://lanyard.cnrad.dev/api/852601982472421476?bg=2b2d31&animated=true" alt="Discord Presence" />
+  <img src="https://lanyard.cnrad.dev/api/852601982472421476?bg=2b2d31&animated=true](https://dsc-readme.tsuni.dev/api/user/852601982472421476?pronouns=Cris&banner=https%3A%2F%2Fcdn.crisu.qzz.io%2Fmedia%2Fpng%2Fcrisutf%2Fcrisu.png&theme=custom&colorB1=E9CEA3&colorB2=CCA869&colorB3=F3EDE0&colorT1=423223&colorT2=FFFFFF&width=512)](https://github.com/the-snesler/discord-github-preview)" alt="Discord Presence" />
 </a>
 
 ---
