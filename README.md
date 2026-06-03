@@ -30,7 +30,7 @@ Alinea tus redes y proyectos de forma limpia:
 
 ---
 
-<align="center">
+<p align="center">
   <p>⚡ <em>Potenciado con <strong>Trae.ai</strong></em> ✨</p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=crisutf.crisutf" alt="Contador de Visitas" />
 </p>
