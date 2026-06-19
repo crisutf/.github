@@ -8,16 +8,6 @@
 
 ---
 
-## 🛡️ Proyecto Destacado: [Crisutf Guard](https://github.com/crisutf-guard)
-
-Una solución integral de **seguridad y gestión de dispositivos** diseñada para entornos eficientes y seguros.
-
-* 🌐 **Extensión de Navegador:** Control estricto de acceso web y filtrado de contenido.
-* 💻 **Aplicación de Escritorio:** Soporte multiplataforma para Windows, macOS y ChromeOS.
-* ☁️ **Panel de Administración:** Gestión en la nube con monitoreo en tiempo real y configuración de modo kiosco.
-
----
-
 ## 📬 Conecta Conmigo
 
 Alinea tus redes y proyectos de forma limpia:
